@@ -1,6 +1,6 @@
 # Store Demand Forecasting: Classical vs Machine Learning vs Deep Learning
 
-Course project for **IE 590MLA: Machine Learning and Its Applications**, Purdue University. Team of five (Team 6), instructor Dr. Congfang Huang.
+Course project for **IE 590MLA: Machine Learning and Its Applications**, Purdue University. Team of five (Team 6), instructor Dr. Congfang Huang. Team: Anusha Prabhakaran, Duna Areny Molne, Gautham Vepa, Sriraga Devasani and Adharsh Rajasekar.
 
 ## Question
 
